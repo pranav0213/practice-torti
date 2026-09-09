@@ -45,3 +45,29 @@ Here are four cities I'd love to visit next, along with why I picked them, and r
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
 > — Martin Fowler
+
+---
+
+## Code Snippet
+
+This snippet is a Java program that writes 100 random integers to a file, one per line, using a `PrintStream` and demonstrating basic exception handling with `try`/`catch`.
+
+```java
+//sample code to write 100 random ints to a file, 1 per line
+
+import java.io.PrintStream;
+import java.io.IOException;
+import java.io.File;
+
+import java.util.Random;
+
+public class WriteToFile
+{	public static void main(String[] args)
+	{	try
+		{	PrintStream writer = new PrintStream( new File("randInts.txt"));
+			Random r = new Random();
+			final int LIMIT = 100;
+
+```
+
+Source: [WriteToFile.java](https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/WriteToFile.java)
