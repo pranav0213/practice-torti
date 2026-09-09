@@ -34,3 +34,14 @@ Here are four cities I'd love to visit next, along with why I picked them, and r
 | Paris      | History and architecture       | 4,350 miles            | $650      |
 | Cape Town  | Wildlife and scenic landscapes | 4,800 miles            | $800      |
 | New York   | Iconic skyline and energy      | 7,800 miles            | $900      |
+
+
+---
+
+## Favorite Sayings
+
+> "Talk is cheap. Show me the code."
+> — Linus Torvalds
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+> — Martin Fowler
