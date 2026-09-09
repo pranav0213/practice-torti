@@ -19,3 +19,5 @@ I like Shah Rukh Khan because he is a very talented actor and has acted in many 
 - Bohemian Rhapsody
 - Hotel California
 - Stairway to Heaven
+
+Check out [my favorite city](./MyCity.md) to learn more.s
